@@ -1,0 +1,21 @@
+Name of QuantLet:  'Countword'
+
+Published in:       
+
+Description:       'Counts positive and negative words using the lexicon by Bing Liu'
+
+Keywords:          'text, nlp, tokenization, opinion mining, media news, sentiment'
+
+See also:           
+
+Author:            'Guo Li'
+
+Submitted:         'Mon, September 5 2015 by Guo Li'
+
+Datafile:          'positve-words.txt negative-words.txt example.txt'
+
+Input:  
+
+Output:           
+
+Example:    

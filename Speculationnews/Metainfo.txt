@@ -1,0 +1,22 @@
+Name of QuantLet:  'Speculationnews'
+
+Published in:       
+ 
+Description:       'Plot market wide news optimism index and news disagreement index weighted by
+                    individual firm's market beta.'
+
+Keywords:          'Plot, Text Mining, Time-series, Media News, Sentiment, Disagreement'
+
+See also:          
+
+Author:            'Guo Li'
+
+Submitted:         'Mon, September 5 2016 by Guo Li'
+
+Datafile:          'StreamReuters.RData, F-F_Research_Data_Factors_daily.CSV, disfinal.csv'
+
+Input:            
+
+Output:            'BetaFinal.csv'
+
+Example:           
