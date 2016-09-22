@@ -1,5 +1,7 @@
+
 setwd("C:~")
 library("methods")
+
 a                                                         = readLines("example.txt")
 
 neg                                                       = readLines("negative-words.txt")
@@ -57,7 +59,4 @@ score.sentiment                                           = function(sentence, p
 }
 
 #sent = paste(rep(sentences,3),collapse="")
-score.sentiment(a, pos, neg) 
-
-
-
+score.sentiment(a, pos, neg)

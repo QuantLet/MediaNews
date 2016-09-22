@@ -2,8 +2,7 @@ Name of QuantLet:  'Speculationnews'
 
 Published in:       
  
-Description:       'Plot market wide news optimism index and news disagreement index weighted by
-                    individual firm's market beta.'
+Description:       'Plot market wide news optimism index and news disagreement index weighted by individual firm''s market beta.'
 
 Keywords:          'Plot, Text Mining, Time-series, Media News, Sentiment, Disagreement'
 

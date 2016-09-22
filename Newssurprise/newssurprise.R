@@ -207,10 +207,3 @@ lines(Date,BWsent,type="l",col="red",lty=5)
 legend("topright",legend = c("Newssent2", "PLSsent","BWsent"),
        text.width = strwidth("Newssent2"),
        lty=c(1,2,5),col=c("black","blue","red"), title = "Sentiment Types")
-
-
-
-
-
-
-

@@ -1,5 +1,7 @@
+
 setwd("c:~")
 library(data.table)
+
 ################################################
 #download "StreamReuters.RData" through following link: https://www.dropbox.com/s/cn1jp9l58vtc9cn/StreamReuters.RData?dl=0
 load("StreamReuters.RData") 
@@ -127,5 +129,3 @@ lines(date,PLS,type="l",col="red",lty=5)
 legend("topright",legend = c("beta_news_dis", "BW","PLS"),
        text.width = strwidth("beta_news_opt"),
        lty=c(1,2,5),col=c("black","blue","red"), title = "Sentiment Types")
-
-
