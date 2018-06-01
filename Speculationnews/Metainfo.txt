@@ -1,4 +1,4 @@
-Name of QuantLet:  'Speculationnews'
+Name of QuantLet:  'speculative_beta2'
 
 Published in:       
  
