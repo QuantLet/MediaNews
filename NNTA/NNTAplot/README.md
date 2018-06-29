@@ -7,8 +7,7 @@
 
 Name of QuantLet:  'NNTAplot'
 
-Published in:      'Media Network Based Investors’ Attention: A
-Powerful Predictor of Market Premium'
+Published in:      'Media Network Based Investors’ Attention: A Powerful Predictor of Market Premium'
 
 Description:       'Plot News Network Trigered Investor Attention Indices (NNTA) with its 2 components (value weighted NNTA index, NNTA^{sz}, and eigenvector centrality weighted NNTA index, NNTA^{ctr}.)'
 
