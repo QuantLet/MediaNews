@@ -2,6 +2,9 @@ setwd("c:~")
 libraries                 = c("stochvol", "vars","lubridate")
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
+install.packages("stochvol")
+library(stochvol)
+
 uncert                    = function(dat11,dat_Z,a=1,b=ncol(dat11),mean1 = T,q=5){
 Uncert1                   = matrix(rep(0,(nrow(dat_Z)-5)*ncol(as.matrix(dat11[,a:b]))),ncol=ncol(as.matrix(dat11[,a:b])))
 Residual                  = matrix(rep(0,(nrow(dat_Z)-5)*ncol(as.matrix(dat11[,a:b]))),ncol=ncol(as.matrix(dat11[,a:b])))
@@ -173,7 +176,6 @@ newssent2                 = testt[,2]
 newssent1                 = testt[,1]
 
 
-newssent2                 = newssent[,2]
 
 
 k                         = 12
